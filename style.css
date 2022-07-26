@@ -1,0 +1,76 @@
+main {
+  background: #f0efef4b;
+}
+/* hero secton start */
+.custom {
+  background: #fffbf0;
+  height: auto;
+}
+@media (max-width: 768px) {
+    .custom-responsive{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+ }
+.custom_heading-color {
+  color: #fabe4c;
+}
+.custom_button {
+  width: 170px;
+  height: 60px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+}
+.hero-section-p {
+  width: 357px;
+  height: 52px;
+}
+/* hero secton end */
+
+/*  Jacket scetion start */
+.Jacket h1 {
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #363958;
+}
+.Jacket h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #363958;
+}
+.Jacket-p {
+  width: 299px;
+  height: 52px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+
+  color: #3e3e3e;
+}
+.Jacket-span {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #fabe4c;
+}
+.Jacket-img_bg {
+  background: #f1f1f1;
+  border-radius: 20px;
+}
+
+.box-shadow{
+    background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+}
+/*Jacket scetion end */
